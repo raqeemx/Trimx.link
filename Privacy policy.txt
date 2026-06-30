@@ -1,0 +1,24 @@
+Privacy Policy for Taqeem Auto-Filler
+
+Taqeem Auto-Filler is a Chrome extension that helps users fill asset data in the Taqeem system from Excel files.
+
+Data handled by the extension:
+- Excel file content selected by the user.
+- Column mappings selected by the user.
+- Taqeem page form fields and table content required for filling and aggregation.
+- Local settings and progress related to the filling or aggregation process.
+
+How data is used:
+The data is used only to provide the extension's core functionality: filling Taqeem asset forms from Excel data and aggregating final opinion values from Taqeem pages.
+
+Data storage:
+The extension may store settings, mappings, and progress locally in the user's browser using Chrome storage. This helps the user continue the process after page refreshes or navigation.
+
+Data sharing:
+The extension does not sell, transfer, or share user data with third parties. The extension does not send Excel data, Taqeem page data, or user activity to an external server.
+
+Remote code:
+The extension does not use remotely hosted code. All extension code is included in the extension package.
+
+Contact:
+raqeemx.ai@gmail.com
